@@ -60,7 +60,7 @@ function renderAssignmentList(assignments) {
 
     row.innerHTML = `
       <div class="person">${assignment.reader}</div>
-      <div class="arrow" aria-hidden="true">→</div>
+      <div class="arrow" aria-hidden="true">←</div>
       <div class="paper">${assignment.target}</div>
     `;
 

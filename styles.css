@@ -83,6 +83,17 @@ h2 {
   margin-bottom: 12px;
 }
 
+.week-heading {
+  width: 100%;
+  text-align: center;
+}
+
+.hint {
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
 .assignments {
   display: grid;
   gap: 8px;
